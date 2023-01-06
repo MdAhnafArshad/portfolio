@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Open Sans;
+}
+
+.primary{
+    color: #FD6E0A;
+}
+.primary-orange{
+    background-color: #FD6E0A;
+    color: #FFFFFF;
+
+}
+
+/* nav bar */
+nav{
+    display: flex;
+}
